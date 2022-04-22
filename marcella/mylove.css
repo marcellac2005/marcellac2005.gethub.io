@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Ms+Madi&display=swap');
+
+body{
+    font-family: 'Ms Madi', cursive;
+    color:pink;
+    background-color: blanchedalmond;
+    font-size: 30pt;
+    text-align: center;
+}
+
+section{
+    width:50%;
+    height:200px;
+    padding : 1em;
+    margin: 2em;
+    border : 1px solid black;
+}
